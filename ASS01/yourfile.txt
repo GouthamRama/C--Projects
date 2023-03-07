@@ -1,0 +1,40 @@
+Statistics for file: file2.txt
+---------------------------------------------------------------------
+
+Total # of characters in file: 116
+
+Category            How many in file           % of file
+---------------------------------------------------------------------
+Letters                          74        63.79 %
+Whitespace                       25        21.55 %
+Digit                             9         7.76 %
+Other characters                  8         6.90 %
+upper 9
+lower 65
+integer 6
+a 6
+b 2
+c 1
+d 3
+e 9
+f 1
+g 0
+h 2
+i 7
+j 0
+k 0
+l 7
+m 3
+n 1
+o 7
+p 1
+q 0
+r 6
+s 5
+t 2
+u 2
+v 1
+w 2
+x 1
+y 5
+z 0
